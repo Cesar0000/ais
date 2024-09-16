@@ -3,3 +3,4 @@ djangorestframework
 environs
 dj-database-url
 psycopg2
+gunicorn
