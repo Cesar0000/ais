@@ -1,0 +1,5 @@
+django
+djangorestframework
+environs
+dj-database-url
+psycopg2
